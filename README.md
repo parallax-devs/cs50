@@ -1,3 +1,3 @@
 # cs50
 
-Projects and Noted for cs50
+Projects and Notes for cs50
